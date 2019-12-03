@@ -10,7 +10,7 @@
 #include "../SDK/Client.h"
 #include "../SDK/GameEvent.h"
 #include "../SDK/GlobalVars.h"
-
+#include "knifebotexample.h"
 namespace Misc {
     void inverseRagdollGravity() noexcept;
     void updateClanTag(bool = false) noexcept;
